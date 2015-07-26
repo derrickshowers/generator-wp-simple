@@ -1,0 +1,23 @@
+# SASS/CSS
+.sass-cache
+style.scss.map
+style.css
+
+# Wordpress
+app/wp-content/upgrade
+app/wp-content/uploads
+app/wp-content/plugins
+app/wp-config.php
+
+# npm
+node_modules
+
+# grunt
+grunt-local-config.js
+backups/
+
+# Misc
+license.txt
+.log
+.DS_Store
+

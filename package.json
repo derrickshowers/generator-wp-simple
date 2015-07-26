@@ -1,0 +1,32 @@
+{
+  "name": "generator-wp-simple",
+  "version": "0.0.0",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "main": "app/index.js",
+  "repository": "derrickshowers/generator-wp-simple",
+  "author": {
+    "name": "Derrick Showers",
+    "email": "derrick@derrickshowers.com",
+    "url": "https://github.com/derrickshowers"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "multiline": "^1.0.2",
+    "yeoman-generator": "^0.19.0",
+    "yosay": "^1.0.2",
+    "simple-git": "^1.6.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}

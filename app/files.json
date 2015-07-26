@@ -1,0 +1,42 @@
+[
+  {
+    "templateName": "_grunt-local-config-default.js",
+    "destination": "grunt-local-config-default.js"
+  },
+  {
+    "templateName": "_Gruntfile.js",
+    "destination": "Gruntfile.js"
+  },
+  {
+    "templateName": "_index.php",
+    "destination": "app/index.php"
+  },
+  {
+    "templateName": "_package.json",
+    "destination": "package.json"
+  },
+  {
+    "templateName": "_README.md",
+    "destination": "README.md"
+  },
+  {
+    "templateName": "_wp-config.php",
+    "destination": "app/wp-config.php"
+  },
+  {
+    "templateName": "editorconfig",
+    "destination": ".editorconfig"
+  },
+  {
+    "templateName": "gitignore",
+    "destination": ".gitignore"
+  },
+  {
+    "templateName": "htaccess",
+    "destination": "app/.htaccess"
+  },
+  {
+    "templateName": "jshintrc",
+    "destination": ".jshintrc"
+  }
+]
