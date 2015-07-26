@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/derrickshowers/generator-wp-simple.png?branch=master)](https://travis-ci.org/derrickshowers/generator-wp-simple)
+[![Build Status](https://travis-ci.org/derrickshowers/wp-simple.svg?branch=master)](https://travis-ci.org/derrickshowers/wp-simple.svg?branch=master)
 
 # generator-wp-simple
 
