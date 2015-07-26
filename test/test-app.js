@@ -15,8 +15,6 @@ var prompts = {
 describe('wp-simple:app', function () {
   describe('when not cloning the Wordpress repo', function() {
 
-    console.log(prompts);
-
     before(function (done) {
       helpers.run(path.join(__dirname, '../app'))
         .withPrompts(prompts)
