@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/derrickshowers/wp-simple.svg?branch=master)](https://travis-ci.org/derrickshowers/wp-simple.svg?branch=master)
 
-# generator-wp-simple
+# WP Simple
 
 > [Yeoman](http://yeoman.io) generator
 
