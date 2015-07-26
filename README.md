@@ -1,4 +1,6 @@
-# generator-wp-simple [![Build Status](https://secure.travis-ci.org/derrickshowers/generator-wp-simple.png?branch=master)](https://travis-ci.org/derrickshowers/generator-wp-simple)
+[![Build Status](https://secure.travis-ci.org/derrickshowers/generator-wp-simple.png?branch=master)](https://travis-ci.org/derrickshowers/generator-wp-simple)
+
+# generator-wp-simple
 
 > [Yeoman](http://yeoman.io) generator
 
