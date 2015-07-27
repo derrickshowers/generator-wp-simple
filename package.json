@@ -10,19 +10,8 @@
     "email": "derrick@derrickshowers.com",
     "url": "https://github.com/derrickshowers"
   },
-  "config": {
-    "blanket": {
-      "pattern": [
-        ""
-      ],
-      "data-cover-never": [
-        "node_modules",
-        "tests"
-      ]
-    }
-  },
   "scripts": {
-    "test": "mocha --require blanket --reporter mocha-lcov-reporter | ./node_modules/coveralls/bin/coveralls.js"
+    "test": "mocha"
   },
   "files": [
     "app"
@@ -39,8 +28,6 @@
     "yosay": "^1.0.2"
   },
   "devDependencies": {
-    "blanket": "^1.1.7",
-    "coveralls": "^2.11.3",
     "mocha": "*"
   }
 }
