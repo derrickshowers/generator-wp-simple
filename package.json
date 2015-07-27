@@ -1,10 +1,10 @@
 {
   "name": "generator-wp-simple",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate a basic app structure for Wordpress sites",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "derrickshowers/generator-wp-simple",
+  "repository": "derrickshowers/wp-simple",
   "author": {
     "name": "Derrick Showers",
     "email": "derrick@derrickshowers.com",
@@ -17,7 +17,9 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "wordpress",
+    "scaffold"
   ],
   "dependencies": {
     "chalk": "^1.0.0",
