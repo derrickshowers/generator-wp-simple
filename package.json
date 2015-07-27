@@ -10,8 +10,19 @@
     "email": "derrick@derrickshowers.com",
     "url": "https://github.com/derrickshowers"
   },
+  "config": {
+    "blanket": {
+      "pattern": [
+        ""
+      ],
+      "data-cover-never": [
+        "node_modules",
+        "tests"
+      ]
+    }
+  },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --require blanket --reporter mocha-lcov-reporter | ./node_modules/coveralls/bin/coveralls.js"
   },
   "files": [
     "app"
@@ -21,12 +32,15 @@
   ],
   "dependencies": {
     "chalk": "^1.0.0",
+    "mocha-lcov-reporter": "0.0.2",
     "multiline": "^1.0.2",
+    "simple-git": "^1.6.0",
     "yeoman-generator": "^0.19.0",
-    "yosay": "^1.0.2",
-    "simple-git": "^1.6.0"
+    "yosay": "^1.0.2"
   },
   "devDependencies": {
+    "blanket": "^1.1.7",
+    "coveralls": "^2.11.3",
     "mocha": "*"
   }
 }
