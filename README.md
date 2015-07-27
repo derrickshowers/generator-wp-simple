@@ -1,5 +1,4 @@
 [![Build Status](https://travis-ci.org/derrickshowers/wp-simple.svg?branch=master)](https://travis-ci.org/derrickshowers/wp-simple.svg?branch=master)
-[![Coverage Status](http://coveralls.io/repos/derrickshowers/wp-simple/badge.svg?branch=master&service=github)](http://coveralls.io/github/derrickshowers/wp-simple?branch=master)
 
 # WP Simple
 
