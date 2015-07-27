@@ -1,7 +1,7 @@
 {
   "name": "generator-wp-simple",
   "version": "0.0.0",
-  "description": "Yeoman generator",
+  "description": "Generate a basic app structure for Wordpress sites",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "derrickshowers/generator-wp-simple",
