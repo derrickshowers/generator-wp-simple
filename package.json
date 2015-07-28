@@ -4,7 +4,7 @@
   "description": "Generate a basic app structure for Wordpress sites",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "derrickshowers/wp-simple",
+  "repository": "derrickshowers/generator-wp-simple",
   "author": {
     "name": "Derrick Showers",
     "email": "derrick@derrickshowers.com",
